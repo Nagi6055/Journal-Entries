@@ -2,7 +2,7 @@
 
 This repository is a personal log of my cybersecurity learning journey and progress toward industry-recognized certifications. It serves as a record of what I’ve studied, hands-on labs I’ve completed, challenges I’ve overcome, and key takeaways along the way.
 
-📌 Purpose
+## 📌 Purpose
 
 Track daily/weekly learning progress
 
@@ -12,7 +12,7 @@ Share experiences from certification prep (e.g., CompTIA Security+, (ISC)² Cert
 
 Reflect on real-world security concepts, tools, and best practices
 
-📂 Structure
+## 📂 Structure
 
 notes/ → Study notes & summaries
 
@@ -22,7 +22,7 @@ labs/ → Hands-on practice & walkthroughs
 
 journal/ → Personal reflections & milestones
 
-🚀 Goals
+## 🚀 Goals
 
 Build a strong foundation in cybersecurity principles
 
