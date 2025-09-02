@@ -14,11 +14,9 @@ Reflect on real-world security concepts, tools, and best practices
 
 ## 📂 Structure
 
-notes/ → Study notes & summaries
-
 certifications/ → Certification prep & progress
 
-labs/ → Hands-on practice & walkthroughs
+labs/ → Hands-on lab journey
 
 journal/ → Personal reflections & milestones
 
