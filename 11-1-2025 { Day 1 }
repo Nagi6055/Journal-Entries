@@ -1,0 +1,23 @@
+Journal Entry – Day 1
+=========================
+
+Today marks the official start of my cybersecurity journey. I began studying the first chapter of the (ISC)² Certified in Cybersecurity (CC) certification, which introduces the fundamentals of security concepts and the importance of protecting information assets. 
+This chapter helped me understand the broader picture of how cybersecurity impacts organizations, the different types of threats that exist, and the critical role security professionals play in defending against them.
+Alongside my certification studies, I also started exploring Splunk, a powerful software platform used for searching, monitoring, and analyzing machine-generated data. At first, the interface felt a bit overwhelming, but 
+I can already see how valuable it will be for log analysis, security monitoring, and detecting anomalies in large data sets.
+
+Key Takeaways
+--------------
+
+Cybersecurity is not just about technology but also about people, processes, and protecting valuable information.
+The CIA Triad (Confidentiality, Integrity, Availability) forms the backbone of security principles.
+Splunk can turn raw log data into actionable insights, which is crucial for real-world security operations.
+
+
+Next Steps
+--------------
+
+- Continue to the next chapter of the CC certification to deepen my understanding of risk and security controls.
+- Practice more with Splunk by loading sample data and running searches to get comfortable with its query language.
+- Stay consistent by documenting what I learn daily.
+- This is just the beginning, but I’m excited to see how these two paths—certification knowledge and practical tool experience—come together to shape my cybersecurity skill set.
