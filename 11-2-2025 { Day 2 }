@@ -1,0 +1,36 @@
+Journal Entry – Day 2
+======================
+
+Today I continued my cybersecurity journey by studying the second chapter of the (ISC)² Certified in Cybersecurity (CC) certification and diving deeper into the Splunk interface.
+
+Studying Chapter 2 – Security Principles
+-----------------------------------------
+This chapter focused on the core principles and concepts of security. I learned how organizations define and enforce security through policies, standards, procedures, and guidelines. It emphasized that security is not just about 
+tools but also about creating a structured framework that ensures consistent protection of data and systems.
+
+Some concepts stood out to me:
+- Security Policies vs. Standards vs. Procedures vs. Guidelines: Each plays a role in ensuring clear direction and accountability.
+- Least Privilege Principle: Users should only have access to what they need to perform their job functions.
+- Defense in Depth: Layered security controls are necessary because no single safeguard is perfect.
+
+
+Exploring Splunk Interface
+--------------------------
+I spent more time familiarizing myself with the Splunk interface today. At first, I was focused on simply navigating around, but I’m starting to understand how the dashboards, search bar, and menus work together.
+
+Key points from today’s practice:
+- Learned how to access and interpret different panels within the interface.
+- Practiced running basic searches to filter log data.
+- Saw how Splunk’s visualizations (like charts and graphs) make it easier to spot patterns.
+
+Key Takeaways
+--------------
+Security frameworks give organizations structure, consistency, and accountability.
+Splunk is not just a log collector—it’s a powerful analysis tool that helps detect, investigate, and respond to security events.
+Progress comes from daily consistency: theory from CC certification + hands-on skills with Splunk = solid foundation.
+
+Next Steps
+-----------
+- Move on to Chapter 3 of the CC certification (risk management).
+- Practice creating custom searches and simple reports in Splunk.
+- Keep refining note-taking to capture both concepts and real-world applications.
