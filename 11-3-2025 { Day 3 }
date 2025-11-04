@@ -1,0 +1,30 @@
+Journal Entry – Day 3
+=======================
+Today I studied Chapter 3 of the (ISC)² Certified in Cybersecurity (CC) certification, which focuses on Risk Management. This chapter introduced me to how organizations identify, evaluate, and handle risks that could impact their information systems and assets.
+
+
+Studying Chapter 3 – Risk Management
+-------------------------------------
+
+I learned that risk is the likelihood of a threat exploiting a vulnerability, and managing it is at the core of cybersecurity. Organizations must balance the cost of security measures with the value of the assets they are protecting.
+Key concepts I studied today:
+
+Risk Identification – Finding and documenting potential threats and vulnerabilities.
+Risk Assessment – Determining the likelihood and impact of risks (both qualitatively and quantitatively).
+Risk Response Options – Accepting, mitigating, transferring, or avoiding risk.
+Residual Risk – The risk that remains even after controls are applied.
+
+This chapter also stressed that risk management isn’t a one-time process—it’s continuous and evolves as systems, threats, and business priorities change.
+
+Key Takeaways
+-------------
+
+^^ Cybersecurity is really about managing risk, not eliminating it completely.
+^^ Effective risk management requires both technical and business understanding.
+^^ Decisions about risk must align with the organization’s tolerance and goals.
+
+Next Steps
+----------
+>> Continue to Chapter 4 to study security operations and incident response.
+>> Look for real-world examples of risk management frameworks (like NIST RMF or ISO 27005).
+>> Practice applying risk concepts to scenarios, such as identifying risks in common IT systems.
