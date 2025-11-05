@@ -2,29 +2,19 @@ Title: Chapter 4 – Network Security (Domain 4)
 ✅ Quick Summary
 Chapter 4 covers Domain 4 – Network Security. The major topics include:
 Understanding basic computer networking terms and models (e.g., OSI, TCP/IP) and protocols/ports (e.g., identifying secure vs insecure counterparts).
-studylib.net
-+2
-HACKLIDO
-+2
+
 Recognizing common network threats and attacks (DDoS, man-in-the-middle, worms, trojans) and tools used to detect or prevent them (IDS/NIDS, IPS, antivirus). 
-HACKLIDO
-+2
-CSDN Blog
-+2
+
 Network security infrastructure: on-premises data centre considerations (HVAC, power, redundancy), cloud service models (SaaS, IaaS, PaaS) and deployment models (public, private, hybrid), secure network design principles (VLANs, DMZ, VPN, micro-segmentation, defence-in-depth, zero trust).
-liveBook
-+2
-HACKLIDO
-+2
+
 Emphasis on understanding secure counterparts of protocols and ports (for example: insecure FTP vs secure SFTP, Telnet vs SSH) and being able to identify port numbers, secure alternatives. 
-HACKLIDO
+
 Summary of terminology, and reinforcing that for any cybersecurity professional—even if not specialized in networking—you must understand how networks operate, how they’re attacked, and how they’re defended. 
-studylib.net
-+1
+
 📝 Important Aspects & Key Concepts
 Networking models & terms: Knowing OSI vs TCP/IP layers, what each layer does, typical protocols; this helps you map vulnerabilities and controls to layers.
 Protocol/port identification: E.g., HTTP → port 80 (insecure) vs HTTPS → port 443 (secure). Recognizing legacy/insecure services (Telnet 23, FTP 21) versus modern secure ones (SSH, SFTP).
-HACKLIDO
+
 Threats and attacks: Understanding how threats exploit network protocols and services, how attackers move laterally, and how design choices (like segmentation) matter.
 Security infrastructure & design:
 On-premises: making sure data centre physical/environmental factors are known (power, HVAC etc).
@@ -32,8 +22,7 @@ Cloud: Understanding service models and deployment models, what implications the
 Design concepts: VLANs, DMZ, VPN, micro-segmentation, zero trust, defense in depth. These aren’t just buzzwords—they reflect how you structure a network to resist or limit attacks.
 Secure configuration and architecture as baseline: It’s not enough to know the threats; you must be able to think about how networks should be configured, segmented, controlled.
 Terminology mastery: Many exam questions will test your ability to identify correct terminology or match terms to concepts. The learning objectives stress recognizing and using the correct terms. 
-CSDN Blog
-+1
+
 Holistic view: Even though this is a “network” chapter, the goal is to see how networking fits into cybersecurity as a broader domain—not just bits and ports, but context, risk, architecture.
 ✅ What I Did in This Session
 Read through all sub-sections of Chapter 4 (Network Security)
