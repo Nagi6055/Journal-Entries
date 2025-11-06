@@ -1,0 +1,39 @@
+Journal Entry – Day 4
+
+Today I reached Chapter 4 of the (ISC)² Certified in Cybersecurity (CC) certification, which focuses on Network Security. This chapter was one of the most technical so far, introducing me to how data moves across networks, the vulnerabilities that exist within those pathways, and the controls used to protect communication and systems from attacks.
+
+Studying Chapter 4 – Network Security
+
+This chapter deepened my understanding of how networks form the backbone of modern computing—and how securing them is essential to protecting data and operations.
+
+Key topics I studied today:
+
+Network Devices – Firewalls, routers, switches, intrusion detection/prevention systems (IDS/IPS), and how each contributes to network defense.
+
+Network Segmentation – Dividing networks into smaller parts to reduce the spread of attacks and improve monitoring.
+
+Common Network Protocols – Understanding TCP/IP, DNS, and HTTP/S, and how attackers can exploit misconfigurations.
+
+Secure Communication – Encryption (TLS, VPNs, SSH) ensures data confidentiality and integrity while in transit.
+
+Network Attacks – Recognized common threats like DDoS, spoofing, sniffing, and man-in-the-middle attacks.
+
+Key Takeaways
+
+Network security is about visibility, control, and protection at every layer.
+
+Proper configuration and monitoring of network devices are as critical as the devices themselves.
+
+Understanding how data travels is essential to identifying where vulnerabilities can occur.
+
+Reflection
+
+Learning about network security helped me connect many of the earlier topics—especially access control, risk management, and defense in depth. It’s fascinating to see how all these components work together to create a resilient security posture.
+
+Next Steps
+
+Begin Chapter 5, focusing on Security Operations and Incident Response.
+
+Continue practicing hands-on labs related to network monitoring and packet analysis.
+
+Explore how tools like Splunk can visualize and detect network anomalies in real time.
