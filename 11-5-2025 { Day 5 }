@@ -1,0 +1,39 @@
+Journal Entry – Day 5
+
+Today I completed Chapter 5 of the (ISC)² Certified in Cybersecurity (CC) certification, which focused on Security Operations. This chapter tied together many of the earlier topics, showing how cybersecurity is applied in real-world environments to monitor, detect, and respond to threats.
+
+Studying Chapter 5 – Security Operations
+
+I learned that security operations is the front line of defense for organizations — where continuous monitoring, incident response, and recovery efforts take place. It’s all about ensuring that systems remain secure, available, and resilient against evolving threats.
+
+Key topics I explored:
+
+Security Monitoring and Logging – Understanding how logs provide visibility into system and network activities.
+
+Incident Response Lifecycle – The steps of preparation, detection, containment, eradication, recovery, and lessons learned.
+
+Change and Configuration Management – Controlling system changes to prevent introducing new vulnerabilities.
+
+Patch Management – Regular updates are crucial for closing known security gaps.
+
+Forensics and Evidence Handling – The importance of preserving digital evidence in the event of a breach.
+
+Key Takeaways
+
+Continuous monitoring and timely response are essential to minimizing damage from incidents.
+
+Security operations depend heavily on coordination, documentation, and communication.
+
+Tools like SIEMs (Security Information and Event Management systems) — such as Splunk — are vital for collecting, correlating, and analyzing logs to detect anomalies.
+
+Reflection
+
+This chapter made me realize how dynamic cybersecurity operations really are. It’s not just about setting up defenses — it’s about staying alert, proactive, and ready to respond when incidents occur. I also see how Splunk ties directly into this area, helping analysts identify and investigate threats in real time.
+
+Next Steps
+
+Move on to Chapter 5 (Network Security) to deepen my technical understanding of protecting communication channels.
+
+Practice using Splunk dashboards and search queries to simulate incident detection scenarios.
+
+Review case studies of real-world security operations to better understand best practices.
