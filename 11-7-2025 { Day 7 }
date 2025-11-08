@@ -1,0 +1,41 @@
+Journal Entry – Chapter 2 Practice Questions
+
+Today I completed the practice questions for Chapter 2 of the (ISC)² Certified in Cybersecurity (CC) certification, which focuses on Security Principles. This chapter deepened my understanding of how organizations establish and maintain a secure environment through structured policies, standards, and controls. Working through the practice questions helped me solidify these ideas and connect them to real-world security management.
+
+Practice Session Overview
+
+The questions in this chapter centered around the fundamental frameworks and principles that guide cybersecurity within organizations. They tested my understanding of governance, access control concepts, and the implementation of layered security measures.
+
+Key areas covered included:
+
+Policies, Standards, Procedures, and Guidelines – Understanding how each contributes to consistent and enforceable security practices.
+
+Principle of Least Privilege – Ensuring users only have the access they need to perform their job duties.
+
+Defense in Depth – Using multiple layers of protection to strengthen overall security posture.
+
+Separation of Duties and Need-to-Know – Reducing risk through accountability and access limitation.
+
+Security Awareness and Training – Reinforcing the human element of cybersecurity defense.
+
+Key Takeaways
+
+Organizational security begins with clear policies and structured processes.
+
+The human factor is as critical as technology; well-trained users are an essential line of defense.
+
+The Defense in Depth concept shows how no single control is sufficient—security must be multi-layered and proactive.
+
+The principle of least privilege isn’t just theoretical—it’s vital to preventing insider threats and minimizing accidental damage.
+
+Reflection
+
+The practice questions reinforced that cybersecurity governance is about building a culture of security supported by clear structure and accountability. It also reminded me that security measures must be both practical and adaptable to an organization’s needs. Understanding these principles will help me think more strategically as I move into technical areas like network and operations security.
+
+Next Steps
+
+Review missed questions and revisit any misunderstood governance concepts.
+
+Begin Chapter 3 practice questions to strengthen my grasp of risk management and control frameworks.
+
+Continue exploring how Splunk can support governance through logging, monitoring, and access control features that align with the principles of least privilege and defense in depth.
