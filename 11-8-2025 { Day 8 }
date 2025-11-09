@@ -1,0 +1,41 @@
+Journal Entry – Chapter 3 Practice Questions
+
+Today I completed the practice questions for Chapter 3 of the (ISC)² Certified in Cybersecurity (CC) certification, which focuses on Risk Management. This chapter challenged me to think critically about how organizations identify, evaluate, and respond to risks that could impact their information systems. Working through the practice questions helped me connect theoretical concepts to practical decision-making in cybersecurity.
+
+Practice Session Overview
+
+The questions in this section tested my understanding of risk-related terminology and processes, as well as the methods used to assess and mitigate risks. They required not just memorization, but the ability to analyze scenarios and choose the most effective course of action.
+
+Key topics reinforced through the questions included:
+
+Risk, Threat, and Vulnerability – Understanding how these three elements interact to create potential harm.
+
+Risk Assessment – Differentiating between qualitative and quantitative risk assessments.
+
+Risk Response Strategies – Knowing when to mitigate, transfer, accept, or avoid risk.
+
+Residual Risk – Recognizing that no security control completely eliminates risk.
+
+Risk Register – The importance of documenting and tracking identified risks and actions taken.
+
+Key Takeaways
+
+Effective risk management is about balance—protecting assets without overextending resources.
+
+Every organization has its own risk tolerance, which shapes how security decisions are made.
+
+Documentation and communication are vital to ensure that risk decisions are transparent and consistent.
+
+Understanding business impact is as important as identifying technical vulnerabilities.
+
+Reflection
+
+These practice questions reminded me that cybersecurity isn’t only about technology—it’s also about strategy and decision-making. Knowing how to identify and evaluate risks helps align security initiatives with an organization’s mission and resources. It also gave me a better appreciation for how frameworks like NIST RMF and ISO 27005 structure risk management in a standardized way.
+
+Next Steps
+
+Review any misunderstood questions and revisit the sections on quantitative vs. qualitative risk analysis.
+
+Begin Chapter 4 practice questions, which focus on security operations and incident response.
+
+Explore how Splunk can be used in risk management—particularly in identifying and prioritizing risks through log analysis and anomaly detection.
