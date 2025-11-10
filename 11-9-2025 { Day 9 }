@@ -1,0 +1,41 @@
+Journal Entry – Chapter 4 Practice Questions
+
+Today I completed the practice questions for Chapter 4 of the (ISC)² Certified in Cybersecurity (CC) certification, which focuses on Security Operations. This chapter was particularly engaging because it connected many of the earlier theoretical concepts—like policies, risk management, and network security—to their real-world application in day-to-day cybersecurity operations.
+
+Practice Session Overview
+
+The questions in this chapter tested my understanding of how organizations monitor, detect, respond to, and recover from security incidents. They emphasized the importance of continuous vigilance, proper incident response planning, and maintaining a secure operational environment.
+
+Key areas covered included:
+
+Security Monitoring and Logging – Recognizing how logs provide visibility into system and network activities.
+
+Incident Response Lifecycle – Understanding the stages: preparation, detection, containment, eradication, recovery, and lessons learned.
+
+Change and Configuration Management – Ensuring that updates and changes don’t introduce new vulnerabilities.
+
+Patch Management – The importance of timely updates to prevent exploitation of known flaws.
+
+Digital Forensics – Preserving and analyzing evidence during and after a security incident.
+
+Key Takeaways
+
+Proactive monitoring is crucial for detecting threats before they escalate into major incidents.
+
+Documentation and coordination are key during incident response—security teams must communicate clearly and follow defined procedures.
+
+Effective patch and configuration management drastically reduces an organization’s attack surface.
+
+A strong incident response plan not only mitigates damage but also builds organizational resilience.
+
+Reflection
+
+The practice questions for this chapter helped me appreciate how all the foundational cybersecurity principles—governance, risk management, and network security—come together in operational practice. I also saw how tools like Splunk fit into this process by enabling real-time monitoring, log correlation, and incident analysis. It’s clear that mastering tools like this will be essential for working in a Security Operations Center (SOC) environment.
+
+Next Steps
+
+Review any questions I missed and re-read sections on incident response frameworks (like NIST 800-61).
+
+Move on to Chapter 5 practice questions, which focus on Network Security.
+
+Continue practicing Splunk queries to simulate how logs can be used to identify suspicious activity during an incident.
