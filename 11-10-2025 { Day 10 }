@@ -1,0 +1,41 @@
+Journal Entry – Chapter 5 Practice Questions
+
+Today I completed the practice questions for Chapter 5 of the (ISC)² Certified in Cybersecurity (CC) certification, which focuses on Network Security. This chapter was one of the most technically detailed sections of the certification, covering how networks are structured, how data travels across them, and what defenses are used to protect against cyber threats. Working through the practice questions helped me reinforce my understanding of the essential security controls and technologies that keep networks secure.
+
+Practice Session Overview
+
+The questions in this chapter tested both conceptual knowledge and practical application of network defense mechanisms. They challenged me to think about how different devices, protocols, and configurations can either strengthen or weaken an organization’s overall security posture.
+
+Key areas covered included:
+
+Network Devices – Understanding the functions of routers, switches, firewalls, and intrusion detection/prevention systems (IDS/IPS).
+
+Network Segmentation – Reducing risk by isolating sensitive systems and limiting access across network zones.
+
+Common Network Protocols – Reviewing how TCP/IP, DNS, and HTTP/S operate and how attackers exploit them.
+
+Secure Communication – The importance of encryption methods such as VPNs, TLS, and SSH in protecting data in transit.
+
+Network Attacks – Recognizing and mitigating threats like DDoS, spoofing, sniffing, and man-in-the-middle (MITM) attacks.
+
+Key Takeaways
+
+Network security is about visibility, control, and layered protection at every level of communication.
+
+Proper configuration and segmentation are just as vital as the tools themselves.
+
+Encryption and secure protocols are key to maintaining confidentiality and integrity of data in motion.
+
+Continuous monitoring and threat detection are necessary to defend against evolving attack methods.
+
+Reflection
+
+This practice session highlighted how critical it is to understand the flow of data across networks and the points where vulnerabilities may exist. It tied together many earlier topics from previous chapters—governance, risk management, and operations—showing how everything converges in the network environment. I also realized how tools like Splunk can provide valuable visibility by analyzing network logs, detecting anomalies, and correlating suspicious activity across multiple systems.
+
+Next Steps
+
+Review any missed or uncertain questions, focusing on network defense mechanisms and protocol security.
+
+Begin reviewing all five chapters collectively to prepare for the final CC certification exam.
+
+Continue hands-on practice in Splunk, analyzing simulated network traffic and security alerts to reinforce theoretical learning with practical experience.
