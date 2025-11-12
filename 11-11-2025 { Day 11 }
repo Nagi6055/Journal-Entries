@@ -1,0 +1,51 @@
+Journal Entry – Comprehensive Practice Review (All Chapters)
+
+Today I revisited the practice questions for all five chapters of the (ISC)² Certified in Cybersecurity (CC) certification as a full refresher. This session served as both a knowledge check and a reinforcement of everything I’ve learned throughout my cybersecurity journey so far. Going back through each chapter’s material helped me see how the individual topics connect to form a complete understanding of foundational cybersecurity concepts and best practices.
+
+Practice Review Overview
+
+Working through all the chapters again highlighted how far I’ve come — from learning basic terminology and principles to analyzing how real-world security operations function. It also showed me the importance of continual review, as cybersecurity knowledge builds upon itself.
+
+Chapter 1 – Security Concepts
+
+I revisited the CIA Triad, types of threat actors, and the importance of protecting data as an organizational asset. The practice questions reminded me that cybersecurity is ultimately about preserving trust and availability in systems.
+
+Chapter 2 – Security Principles
+
+This review reinforced the importance of policies, standards, and governance in shaping consistent security behavior. Concepts like least privilege, defense in depth, and separation of duties stood out as timeless principles that guide secure operations.
+
+Chapter 3 – Risk Management
+
+Reworking the questions helped me reconnect with the idea that risk can never be fully eliminated—only managed. Revisiting risk assessments, response strategies, and residual risk deepened my understanding of how business objectives influence security decisions.
+
+Chapter 4 – Security Operations
+
+This chapter’s practice questions reinforced the importance of continuous monitoring, incident response, and patch management. I was able to apply these ideas mentally to how tools like Splunk assist with detecting and responding to incidents through log analysis and real-time alerting.
+
+Chapter 5 – Network Security
+
+Revisiting this chapter strengthened my grasp on network defense fundamentals—firewalls, IDS/IPS, VPNs, and encryption protocols. The review emphasized that a secure network relies on both technical safeguards and proper configurations.
+
+Key Takeaways
+
+Revisiting all chapters provided a clearer big-picture view of how cybersecurity frameworks, risk management, and technical controls align.
+
+Continuous practice builds not just memorization, but analytical thinking—understanding why each answer is correct.
+
+The integration of theory and tools like Splunk gives me both academic and practical insight into cybersecurity operations.
+
+Consistency, review, and curiosity are essential habits for success in this field.
+
+Reflection
+
+This refresher made me realize how much my understanding has evolved since I first began this journey. Concepts that once felt complex now make logical sense because I can connect them to real-world scenarios and tools. The combination of studying for the Certified in Cybersecurity certification and learning Splunk has given me a solid foundation to continue advancing toward more specialized areas in the field.
+
+Next Steps
+
+Continue reviewing weak areas and key definitions before taking the official (ISC)² Certified in Cybersecurity exam.
+
+Explore advanced topics and hands-on labs to strengthen practical skills.
+
+Keep using Splunk to analyze simulated logs, focusing on how theory meets practice in threat detection and response.
+
+Begin preparing for the next certification goal, such as CompTIA Security+ or Splunk Core Certified User, to build upon this foundation.
