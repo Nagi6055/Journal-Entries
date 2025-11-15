@@ -1,0 +1,54 @@
+Journal Entry – Full Review of the Certified in Cybersecurity (CC) Certification
+
+Today I dedicated my study time to conducting a full review of the (ISC)² Certified in Cybersecurity (CC) certification. Instead of focusing on just one chapter or a set of practice questions, I stepped back to look at the entire certification from start to finish. This broader review helped me see how all five domains fit together and how each topic contributes to the foundational knowledge required to work in cybersecurity.
+
+Review Overview
+
+Going through the complete certification material again reminded me of the journey I’ve taken so far — from learning basic security terminology to understanding deeper concepts like risk management, network defense, and security operations. Each chapter built on the last, and reviewing everything together strengthened my understanding of the bigger picture: cybersecurity is a system of interlocking principles, processes, and technologies.
+
+Major Areas Revisited
+1. Security Concepts
+
+I refreshed my knowledge of the CIA Triad, threat actors, vulnerabilities, and the overall purpose of cybersecurity. Revisiting this material reminded me why security exists in the first place: to protect information, systems, and people.
+
+2. Security Principles
+
+I reviewed governance structures like policies, standards, procedures, and guidelines, as well as key principles like least privilege, defense in depth, separation of duties, and need-to-know. These ideas create the framework organizations rely on to stay secure.
+
+3. Risk Management
+
+I revisited risk identification, risk assessments, risk responses, and the concept of residual risk. Reviewing this section reinforced how strategic cybersecurity decision-making is — every security action must be based on understanding risk.
+
+4. Security Operations
+
+This section tied everything together. I reviewed monitoring, logging, incident response, patch management, and digital forensics basics. Security operations is where all cybersecurity knowledge becomes action, and it reminded me how essential tools like Splunk are for real-time monitoring and event analysis.
+
+5. Network Security
+
+I revisited devices, protocols, secure communication, segmentation, and common network attacks. This review strengthened my technical foundation and helped me understand how network vulnerabilities directly impact an organization’s security posture.
+
+Key Takeaways
+
+Reviewing the entire certification helped me see cybersecurity as an interconnected system, not isolated chapters.
+
+Many concepts overlap (e.g., logging in operations ties directly into risk and network security).
+
+I’m gaining confidence not just in the material, but in my ability to think like a cybersecurity professional.
+
+Consistency and repetition are essential — reviewing regularly helps concepts stick more deeply.
+
+Reflection
+
+Taking the time to step back and review the full certification made me realize how much progress I’ve made. What once seemed overwhelming now feels manageable and logical. I can tell that I’m building a strong foundation — not just to pass the exam, but to grow into a capable cybersecurity practitioner.
+
+I also noticed how much learning Splunk has helped reinforce these ideas. Seeing how logs, alerts, and search queries work in a real SIEM ties directly into the CC material, especially in the areas of operations and network security.
+
+Next Steps
+
+Complete another round of practice questions and start a full-length mock exam.
+
+Revisit any weak areas identified during the review.
+
+Continue building hands-on skills with Splunk to strengthen real-world understanding.
+
+Prepare mentally and academically to schedule the Certified in Cybersecurity exam.
