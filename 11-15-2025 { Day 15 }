@@ -1,0 +1,51 @@
+Journal Entry – Exploring TryHackMe and LetsDefend
+
+Today marked an exciting step in my cybersecurity journey: I officially dove into TryHackMe and LetsDefend. Up until now, most of my work has been studying for the Certified in Cybersecurity (CC) certification, reviewing notes, and practicing concepts. But today I finally brought that knowledge into hands-on platforms designed to simulate real-world cybersecurity scenarios.
+
+Trying Out TryHackMe
+
+My first stop was TryHackMe, and right away I could tell this platform was built for learning step-by-step. I explored some beginner rooms and found myself actually applying foundational security concepts — not just reading about them.
+
+I got to:
+
+Navigate through virtual machines
+
+Practice basic command-line tasks
+
+Learn about different types of vulnerabilities
+
+Follow guided explanations that made technical topics feel manageable
+
+It felt rewarding to see that the theories from the CC certification actually show up in real pentesting and defensive tasks. TryHackMe made cybersecurity feel more like a practical craft, not just an academic subject.
+
+Exploring LetsDefend
+
+After that, I moved to LetsDefend, which had a very different but equally valuable focus. While TryHackMe leans more toward hands-on labs and hacking fundamentals, LetsDefend put me in the mindset of a Security Operations Center (SOC) analyst.
+
+I worked through:
+
+Realistic incident handling scenarios
+
+Log analysis
+
+Email investigation exercises
+
+Malware basics
+
+I loved how LetsDefend showed me what it’s like to respond to actual security alerts. It made the concepts from Chapter 4 of the CC certification — like incident response, monitoring, alerts, indicators, and analysis — feel much more concrete. This platform helped me understand how all the theory turns into real-world decisions and actions.
+
+Reflections
+
+Today was a big confidence booster. I realized that I'm not just memorizing definitions — I'm learning skills I can actually use. Working with these platforms reminded me why I chose cybersecurity in the first place: the field is hands-on, dynamic, and full of challenges that require both analysis and creativity.
+
+Seeing myself progress from studying to testing my abilities made me feel like I’m truly stepping into the world of cybersecurity.
+
+Next Steps
+
+Continue beginner rooms on TryHackMe to strengthen my technical fundamentals
+
+Complete more LetsDefend SOC challenges to improve my defensive mindset
+
+Track my progress across both platforms as part of my learning journey
+
+Keep balancing theory and hands-on practice
