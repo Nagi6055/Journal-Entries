@@ -1,0 +1,45 @@
+Journal Entry – Setting Up HackTheBox & Reviewing Chapter Two for the CC Exam
+
+Today was another meaningful step forward in my cybersecurity journey. I continued setting up and getting familiar with HackTheBox, while also preparing for the Certified in Cybersecurity (CC) exam by reviewing practice questions from Chapter Two: Security Principles. Balancing these two areas made me feel like I’m building both my theoretical foundation and my practical skills side by side.
+
+Continuing My Setup on HackTheBox
+
+As I went deeper into HackTheBox today, I spent time understanding the platform’s structure and the types of machines and challenges it offers. I explored the dashboard, walked through the starting sections, and made sure my connection and tools were set up correctly.
+
+Even though I haven’t launched into any serious hacking yet, the setup process itself helped me better understand how penetration testing labs operate. The idea of connecting to a private lab environment, interacting with virtual machines, and working through challenges feels like a major step up from what I’ve done before.
+
+I’m both excited and a little intimidated — but that’s the exact mix of feelings that tells me I’m growing.
+
+Preparing for the CC Exam – Reviewing Chapter Two Questions
+
+Alongside my HackTheBox progress, I reviewed Chapter Two practice questions, which focus on Security Principles. This chapter dives deeper into the rules, frameworks, and access models that shape how organizations secure their systems.
+
+Topics I reviewed included:
+
+The differences between policies, standards, guidelines, and procedures
+
+Security principles like least privilege, need-to-know, separation of duties, and defense in depth
+
+The purpose of security controls and how they are classified (preventive, detective, corrective, etc.)
+
+The AAA model (Authentication, Authorization, Accountability)
+
+Access control models such as DAC, MAC, and RBAC
+
+Working through the quiz questions helped me identify which areas I fully understand and which ones I need to reinforce. Access control scenarios in particular made me slow down and think, which is good — it means I’m learning how to apply these concepts, not just recite them.
+
+Reflection
+
+Today felt like a day where both sides of cybersecurity — the hands-on technical side and the core theoretical side — came together. Studying access control models and security principles gave me a solid framework, while setting up HackTheBox reminded me of where these principles are used in practice.
+
+I’m slowly building the confidence and mindset of someone who can analyze systems, understand risk, and eventually test and defend real environments. It’s a long journey, but days like this remind me that I’m moving in the right direction.
+
+Next Steps
+
+Begin working on the beginner-friendly Starting Point machines on HackTheBox
+
+Continue CC exam prep by reviewing Chapter Three questions
+
+Strengthen my understanding of control types and access control models
+
+Maintain consistency and keep documenting my progress
