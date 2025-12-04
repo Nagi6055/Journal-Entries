@@ -1,0 +1,12 @@
+
+Journal Entry – My Cybersecurity Journey
+
+Today felt like another solid step forward in my cybersecurity journey. I finally continued setting up my HackTheBox environment, and even though the platform can feel a bit intimidating with all its tools, VPN configs, and terminal-driven challenges, there’s something energizing about diving into a space built for real offensive security practice. Just getting everything connected and confirming I could reach the HTB machines gave me a little thrill—like I’d opened the door to a new part of the cybersecurity world.
+
+While HackTheBox was installing updates and I was double-checking some settings, I shifted gears back to exam prep. Today’s focus was Chapter Three questions for the ISC2 Certified in Cybersecurity exam. This chapter has a different feel from the first two; it dives deeper into access control, authentication, AAA, and the logic behind enforcing least privilege. Going through the practice questions reminded me how crucial these core concepts are—everything in security circles back to who can access what, and under what conditions.
+
+Some questions challenged me, especially ones that tried to blur the lines between identification vs. authentication or discretionary vs. mandatory access control. But instead of feeling discouraged, I found myself more determined to understand the “why” behind each answer. I can tell I’m gradually shifting from memorizing terms to actually thinking like someone who works in security.
+
+Balancing hands-on practice with structured studying is starting to feel natural. HackTheBox gives me a taste of the real attack surface, while the CC material keeps me grounded in fundamental principles. Both sides feed into each other more than I expected—when I read about access controls, I think about how an attacker would try to bypass them; when I try a hacking lab, I see how those same principles defend against those tactics.
+
+Today wasn’t flashy or overly dramatic, but it was steady progress. And honestly, that’s becoming my favorite part of this journey: the consistency, the curiosity, and the feeling of slowly leveling up. Tomorrow, I’ll keep pushing—one challenge, one chapter, one concept at a time.
